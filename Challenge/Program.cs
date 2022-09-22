@@ -10,23 +10,23 @@ namespace Challenge
     {
         static void Main(string[] args)
         {
-            string FirstName;
-            FirstName = "Den";
+            string FirstName = "Den";
+           // FirstName = "Den";
 
-            string LastName;
-            LastName = "Shitov";
+            string LastName = "Shitov";
+            //LastName = "Shitov";
 
-            string Country;
-            Country = "Russia";
+            string Country = "Russia";
+            //Country = "Russia";
 
-            string zipCode;
-            zipCode = "344022";
+            string zipCode = "344022";
+            //zipCode = "344022";
 
-            string City;
-            City = "Rostov on Don";
+            string City = "Rostov on Don";
+            //City = "Rostov on Don";
 
-            string streetAddress;
-            streetAddress = "Juravlev st. 100";
+            string streetAddress = "Juravlev st. 100";
+            //streetAddress = "Juravlev st. 100";
 
             Console.WriteLine("First Name:  {0}" ,FirstName);
             Console.WriteLine("Lastname: {0}", LastName); 
